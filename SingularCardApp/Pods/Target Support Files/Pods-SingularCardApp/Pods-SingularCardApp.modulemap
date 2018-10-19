@@ -1,0 +1,6 @@
+framework module Pods_SingularCardApp {
+  umbrella header "Pods-SingularCardApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
